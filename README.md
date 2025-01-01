@@ -1,4 +1,10 @@
 ## Hi there 👋
+Ignacio here.
+I am a software engineer working in AI applied to decision making. Also non financial blockchain enthusiast mostly on Hyperledger Fabric platform.
+
+I am lecturer at I.E. University in Madrid in the Bachelor on Computer Science and Artificial Engineering.
+
+I also love flying... I am instrument rated PPL pilot and proud pilot of a Cirrus SR22.
 
 <!--
 **icordoba/icordoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
